@@ -1,0 +1,56 @@
+[{
+    "model":"redmi note 10",
+    "brand":"redmi",
+    "mrp":"15999",
+    "price":"12499",
+    "image":"link",
+    "ram":"4GB",
+    "storage":"64GB",
+    "camera":"48mp",
+    "isAvailable":true
+},
+{
+    "model":"realme 111",
+    "brand":"redmi",
+    "mrp":"15999",
+    "price":"12499",
+    "image":"link",
+    "ram":"4GB",
+    "storage":"64GB",
+    "camera":"48mp",
+    "isAvailable":true
+},
+{
+    "model":"0ne pluse",
+    "brand":"redmi",
+    "mrp":"15999",
+    "price":"12499",
+    "image":"link",
+    "ram":"4GB",
+    "storage":"64GB",
+    "camera":"48mp",
+    "isAvailable":true
+},
+{
+    "model":"apple iphone",
+    "brand":"redmi",
+    "mrp":"15999.00",
+    "price":"12499.00",
+    "image":"link",
+    "ram":"4GB",
+    "storage":"64GB",
+    "camera":"48mp",
+    "isAvailable":true
+},
+{
+    "model":"nokiya",
+    "brand":"redmi",
+    "mrp":"15999.00",
+    "price":"12499.00",
+    "image":"link",
+    "ram":"4GB",
+    "storage":"64GB",
+    "camera":"48mp",
+    "isAvailable":true
+}
+]
